@@ -1,0 +1,18 @@
+{
+  "name": "tailwindcss-website",
+  "version": "1.0.0",
+  "description": "Sitio web creado con TailwindCSS para aprender a utilizar el framework con las nuevas funcionalidades",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/jit": "^0.1.10",
+    "autoprefixer": "^10.4.0",
+    "postcss-cli": "^9.0.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
